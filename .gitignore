@@ -3,3 +3,7 @@
 .vscode/
 __pycache__/
 *.pyc
+.env
+students,csv
+练习结果.csv
+结果.csv
